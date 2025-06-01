@@ -18,6 +18,10 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos ambi
 | -     | []()                        | Médio       |
 | -     | []()                        | Difícil     |
 
+## Apresentação
+
+[Apresentação no Youtube]()
+
 ## Screenshots
 
 ### [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
@@ -36,9 +40,16 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos ambi
 
 ![]()
 
-## Outros 
 
-[Apresentação no Youtube]()
+## Instalação
+### Pré Requisitos
+Python3.12+
+### Comandos
+#### Clonagem do Repositório
+```git clone https://github.com/projeto-de-algoritmos-2025/Greed_Leet.git```
+#### Execução
+```cd ./Greed_Leet```<br>
+```python3 [NOME-ARQUIVO].py```
 
 
 
