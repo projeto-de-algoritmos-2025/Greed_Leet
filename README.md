@@ -15,8 +15,8 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos ambi
 |----------|----------------------------------------|-------------|
 | 1282      | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)                        | Médio       |
 | 2551     | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)                        | Difícil     |
-| -     | []()                        | Médio       |
-| -     | []()                        | Difícil     |
+| 322     | [Coin Change](https://leetcode.com/problems/coin-change/description/)                        | Médio       |
+| 871    | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)                        | Difícil     |
 
 ## Apresentação
 
@@ -32,13 +32,13 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos ambi
 
 ![](./img/marbles.png)
 
-### []()
+### [Coin Change](https://leetcode.com/problems/coin-change/description/)
 
-![]()
+![](./img/coinchange.png)
 
-### []()
+### [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
 
-![]()
+![](./img/minimum.png)
 
 
 ## Instalação
