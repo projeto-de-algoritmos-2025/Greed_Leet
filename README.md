@@ -20,7 +20,7 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos ambi
 
 ## Apresentação
 
-[Apresentação no Youtube]()
+[Apresentação no Youtube](https://www.youtube.com/watch?v=51YFXo8ddGs)
 
 ## Screenshots
 
